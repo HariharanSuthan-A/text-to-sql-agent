@@ -1,5 +1,4 @@
-# SQL Agent - Text-to-SQL Conversion System
-
+# SQL Agent - Text-to-SQL AI Agent
 A conversational SQL agent that converts natural language questions into SQL queries, executes them against a SQLite database, and converts results back to natural language responses.
 
 ## 🎯 Overview
